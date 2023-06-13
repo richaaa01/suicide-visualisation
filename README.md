@@ -1,1 +1,4 @@
 # suicide-visualisation
+Every year, there is a rapid increase in suicide attempts due to the deteriorating quality of mental health. In addition, the worldwide pandemic situation has further exacerbated mental suffering. Still, mental health specialists are doing their best to address this issue. In other words, you should take the time to develop such a project if you work in the health or social care domain. Data analytics project ideas like this can help you discover how many suicides occur worldwide.
+
+Data from this global suicide rates project covers suicide rates in various countries, as well as information on age, year, gender, population, GDP, and more. Additionally, you can determine whether the overall suicide rate is increasing or decreasing, and which gender commits suicide more often. Using this analysis, you can determine suicide rates as a percentage.
